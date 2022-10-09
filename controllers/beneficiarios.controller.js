@@ -1,0 +1,14 @@
+const { db } = require("../models/conexion.model");
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////             SELECT BENEFICIARIOS            /////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
+exports.filterBeneficiarios = async(req, res) => { 
+    const cod_carnet = req.params.id;
+    const Beneficiarios = await db.tb_beneficiarios.findAll({
+        where:  {
+            cod_carnet 
+        }
+    });
+    res.send(Beneficiarios);
+}

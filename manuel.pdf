@@ -1,0 +1,75 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 92>>
+stream
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+28.35 813.54 113.39 -14.17 re S BT 31.19 804.05 Td (año) Tj ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.28 841.89]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+>>
+>>
+endobj
+6 0 obj
+<<
+/Producer (FPDF for Node.js v.1.00 beta [more at https://github.com/Solifugus/fpdf-njs/wiki)
+/Title (ESTADO DE CUENTA)
+/Subject (REPORTE DE ESTADO DE CUENTA)
+/Author (SISTEMA DE COPRUMH)
+/Creator (Manuel Guzman Generator)
+/CreationDate (D:20220521312157)
+>>
+endobj
+7 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000227 00000 n 
+0000000415 00000 n 
+0000000009 00000 n 
+0000000087 00000 n 
+0000000314 00000 n 
+0000000503 00000 n 
+0000000779 00000 n 
+trailer
+<<
+/Size 8
+/Root 7 0 R
+/Info 6 0 R
+>>
+startxref
+882
+%%EOF
